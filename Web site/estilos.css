@@ -1,0 +1,53 @@
+.tarjeta{
+    background-color: #000000bc;
+    justify-items: center;
+    margin: 0 auto;
+    width: 96%;
+    height: 50%;
+    flex-direction: column;
+    position: relative;
+}
+.tarjeta p,h1,h6{
+    width: 50%;
+    margin: 25px auto;
+    text-align: center;
+    align-content: space-between;
+}
+.tarjeta p{
+    margin-top: 30px;
+    color: var(--dorado);
+    font-size: 1rem;
+}
+.tarjeta h1{
+    color: var(--blanco);
+    font-size: 2rem;
+}
+.tarjeta-tres p,h1,h6{
+    width: 50%;
+    margin: 25px auto;
+    text-align: center;
+    align-content: space-between;
+}
+.tarjeta-tres p{
+    margin-top: 30px;
+    color: var(--dorado);
+    font-size: 1rem;
+}
+.tarjeta-tres h1{
+    color: var(--blanco);
+    font-size: 2rem;
+}
+.tarjeta h6{
+    color: var(--shadow);
+    font-size: 1.3rem;
+}
+.tarjeta-dos{
+    margin: 0 auto;
+    width: 96%;
+    height: 50%;
+}
+.tarjeta-tres{
+    margin: 0 auto;
+    width: 96%;
+    height: 50%;
+}
